@@ -1,4 +1,5 @@
 
+
 [toc]
 
 # Leetcode
@@ -497,3 +498,10 @@ class Solution:
             pNode = pNode.next#沿着父节点向上遍历
         return  #到了根节点仍没找到，则返回空
 ```
+
+
+## 19.11.23
+
+### 打印杨辉三角
+
+[(2条未读通知) 杨辉三角__牛客网](https://www.nowcoder.com/questionTerminal/e98bd047f1cf498298b1f19a5170f06d)
